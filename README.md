@@ -13,3 +13,7 @@ Solution for the Kata activity focused around the Babysitter schedule.
     b.  Pay rate from bed-time to midnight = $8/hour
     c.  Pay rate from midnight to end-time = $16/hour
     d.  Pay rated for full hours, no fractional work
+6:  User requires 3 inputs in order to calculate:  Start-Time, Bed-Time, End-Time.
+    
+## Feature
+1:  Allow babysitter to calculate 1 night of work.
